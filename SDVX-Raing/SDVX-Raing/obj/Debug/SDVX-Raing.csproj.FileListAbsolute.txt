@@ -1,0 +1,11 @@
+C:\Users\yoosung\source\repos\SDVX-Raing\SDVX-Raing\bin\Debug\SDVX-Raing.exe.config
+C:\Users\yoosung\source\repos\SDVX-Raing\SDVX-Raing\bin\Debug\SDVX-Raing.exe
+C:\Users\yoosung\source\repos\SDVX-Raing\SDVX-Raing\bin\Debug\SDVX-Raing.pdb
+C:\Users\yoosung\source\repos\SDVX-Raing\SDVX-Raing\obj\Debug\SDVX-Raing.csproj.AssemblyReference.cache
+C:\Users\yoosung\source\repos\SDVX-Raing\SDVX-Raing\obj\Debug\SDVX_Raing.Properties.Resources.resources
+C:\Users\yoosung\source\repos\SDVX-Raing\SDVX-Raing\obj\Debug\SDVX-Raing.csproj.GenerateResource.cache
+C:\Users\yoosung\source\repos\SDVX-Raing\SDVX-Raing\obj\Debug\SDVX-Raing.csproj.CoreCompileInputs.cache
+C:\Users\yoosung\source\repos\SDVX-Raing\SDVX-Raing\obj\Debug\SDVX-Raing.exe
+C:\Users\yoosung\source\repos\SDVX-Raing\SDVX-Raing\obj\Debug\SDVX-Raing.pdb
+C:\Users\yoosung\source\repos\SDVX-Raing\SDVX-Raing\obj\Debug\SDVX_Raing.Form1.resources
+C:\Users\yoosung\source\repos\SDVX-Raing\SDVX-Raing\obj\Debug\SDVX_Raing.SongControl.resources
